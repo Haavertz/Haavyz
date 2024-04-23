@@ -2,8 +2,9 @@
     "name": "Haavyz",
     "displayName": "haavyz",
     "description": "Official Haavyz Theme",
-    "version": "1.0.3",
+    "version": "1.0.5",
     "publisher": "Haavyz",
+    "icon": "./logo.png",
     "engines": {
         "vscode": "^1.75.0"
     },
@@ -14,6 +15,15 @@
                 "uiTheme": "vs-dark",
                 "path": "./themes/haavyz.json"
             }
-        ]
+        ],
+        "editor.tokenColorCustomizations": {
+            "textMateRules": [
+                {
+                    "settings": {
+                        "fontFamily": "'Space Mono', sans-serif'"
+                    }
+                }
+            ]
+        }
     }
 }
