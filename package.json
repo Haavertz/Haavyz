@@ -1,0 +1,19 @@
+{
+    "name": "Haavyz",
+    "displayName": "haavyz",
+    "description": "Official Haavyz Theme",
+    "version": "1.0.0",
+    "publisher": "Haavyz",
+    "engines": {
+        "vscode": "^1.75.0"
+    },
+    "contributes": {
+        "themes": [
+            {
+                "label": "Haavyz",
+                "uiTheme": "vs-dark",
+                "path": "./themes/haavyz.json"
+            }
+        ]
+    }
+}
