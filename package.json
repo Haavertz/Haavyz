@@ -2,7 +2,7 @@
     "name": "Haavyz",
     "displayName": "haavyz",
     "description": "Official Haavyz Theme",
-    "version": "1.0.0",
+    "version": "1.0.3",
     "publisher": "Haavyz",
     "engines": {
         "vscode": "^1.75.0"
